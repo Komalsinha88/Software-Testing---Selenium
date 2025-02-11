@@ -1,7 +1,7 @@
 ## 🧪 Selenium Testing
 ### Selenium Test Output
 
-1. # Selenium Testing with Maven Project
+1. ##### Selenium Testing with Maven Project
 
 ## Overview
 This project automates web interactions using Selenium WebDriver and Java. The project is built and tested using Apache Maven.
@@ -14,16 +14,20 @@ This project automates web interactions using Selenium WebDriver and Java. The p
 - Google Chrome installed
 - ChromeDriver matching the installed Chrome version
 - Dependencies in `pom.xml` (JUnit, Selenium, WebDriver)
+- 
+ ## 🖼️ Visuals
+ ### **Live Preview**
+  ![Output](https://github.com/user-attachments/assets/ba4de1fb-9c0e-408f-801c-1e118d4b75c7)
 
 
 
-2. **Browser launches, navigates to Facebook, then closes.**
+2. ##### Browser launches, navigates to Facebook, then closes.
    - Console Output:
    ```
    Opened website: https://www.facebook.com
    Browser closed.
    ```
-3. **Extracted reviews from an e-commerce website.**
+3. ##### Extracted reviews from an e-commerce website.
    - Sample Reviews:
    ```
    Review: Leather quality is good, Size just small, color is nice
