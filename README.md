@@ -15,7 +15,7 @@ This project automates web interactions using Selenium WebDriver and Java. The p
 - Dependencies in `pom.xml` (JUnit, Selenium, WebDriver)
 - 
  ## 🖼️ Visuals
- ### **Live Preview**
+ ### **Output**
   https://github.com/user-attachments/assets/ba4de1fb-9c0e-408f-801c-1e118d4b75c7
 
 
@@ -27,7 +27,7 @@ This project automates web interactions using Selenium WebDriver and Java. The p
    Browser closed.
    ```
     ## 🖼️ Visuals
- ### **Live Preview**
+ ### **Output**
 ![Navigates to facebook](![Screenshot 2025-02-11 150829](https://github.com/user-attachments/assets/b5d6a491-f72c-4aea-b803-a02aadbce6e7)
 )
  
@@ -40,7 +40,7 @@ This project automates web interactions using Selenium WebDriver and Java. The p
    Review: The media could not be loaded.
     ```
     ## 🖼️ Visuals
- ### **Live Preview**
+ ### **Output**
  ![Reviews](!![Screenshot 2025-02-11 151100](https://github.com/user-attachments/assets/5cde4905-2c8e-49af-926f-afc0f4484f06)
 
  
