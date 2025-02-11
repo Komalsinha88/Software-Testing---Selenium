@@ -1,6 +1,6 @@
 ## 🧪 Selenium Testing
 
-1. #### Selenium Testing with Maven Project
+1. ## Selenium Testing with Maven Project
 
 ## Overview
 This project automates web interactions using Selenium WebDriver and Java. The project is built and tested using Apache Maven.
@@ -20,7 +20,7 @@ This project automates web interactions using Selenium WebDriver and Java. The p
 
 
 
-2. #### Browser launches, navigates to Facebook, then closes.
+2. ## Browser launches, navigates to Facebook, then closes.
    - Console Output:
    ```
    Opened website: https://www.facebook.com
@@ -31,7 +31,7 @@ This project automates web interactions using Selenium WebDriver and Java. The p
 ![Navigates to facebook](![Screenshot 2025-02-11 150829](https://github.com/user-attachments/assets/b5d6a491-f72c-4aea-b803-a02aadbce6e7)
 )
  
-3. #### Extracted reviews from an e-commerce website.
+3. ## Extracted reviews from an e-commerce website.
    - Sample Reviews:
    ```
    Review: Leather quality is good, Size just small, color is nice
@@ -41,6 +41,8 @@ This project automates web interactions using Selenium WebDriver and Java. The p
     ```
     ## 🖼️ Visuals
  ### **Live Preview**
+ ![Reviews](!![Screenshot 2025-02-11 151100](https://github.com/user-attachments/assets/5cde4905-2c8e-49af-926f-afc0f4484f06)
+
  
   
 
