@@ -17,7 +17,7 @@ This project automates web interactions using Selenium WebDriver and Java. The p
 - 
  ## 🖼️ Visuals
  ### **Live Preview**
-  ![Output](https://github.com/user-attachments/assets/ba4de1fb-9c0e-408f-801c-1e118d4b75c7)
+  https://github.com/user-attachments/assets/ba4de1fb-9c0e-408f-801c-1e118d4b75c7
 
 
 
